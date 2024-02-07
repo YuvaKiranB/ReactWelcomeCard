@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.card {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  width: 320px;
+  height: 320px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
